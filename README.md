@@ -40,3 +40,7 @@ i. Again, show this in a tabular format.
 | Gamma Mean   |         |         |         |         |
 | Gamma Median |         |         |         |         |
 | Gamma Mode   |         |         |         |         |
+
+## Final Result
+
+![Alt Text](./src/assets/img/result.png)
